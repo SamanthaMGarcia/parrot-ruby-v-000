@@ -1,3 +1,3 @@
-def parrot("Squawk!")
-  puts "Squawk!"
+def parrot(default="Squawk!")
+  puts default
 end
