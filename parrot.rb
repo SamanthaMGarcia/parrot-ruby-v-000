@@ -1,1 +1,2 @@
-def parrot(default)
+def parrot(default="Squawk!")
+  puts 
